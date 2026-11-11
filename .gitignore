@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+data/simulated_run.csv
+node_modules/
+web/node_modules/
+web/dist/
+.vercel/
+.env
+.pytest_cache/
