@@ -6,7 +6,7 @@ readings, and builds JSON messages for the topic `patient/monitor/data`.
 
 > Academic prototype. Not a medical device, not for diagnosis or treatment. The data is synthetic.
 
-**Author:** Himanshu Dubey, ABES Engineering College
+**Author:** Himanshu Dubey
 
 ## Links
 
