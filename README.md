@@ -10,8 +10,8 @@ readings, and builds JSON messages for the topic `patient/monitor/data`.
 
 ## Links
 
-- GitHub: https://github.com/YOUR-USERNAME/patient-health-monitoring
-- Live dashboard: https://YOUR-PROJECT.vercel.app
+- GitHub: https://github.com/Himanshu8211/patient-health-monitoring-system
+- Live dashboard: https://patient-health-monitoring-nine.vercel.app
 - Notebook (Kaggle): ADD-YOUR-KAGGLE-LINK
 - Report: [docs/project_report.pdf](docs/project_report.pdf)
 
